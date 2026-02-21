@@ -4,7 +4,7 @@ tags={
 	"Map"
 	"Utilities"
 }
-name="ScalarMapModButtons"
+name="ScalarMapModeButtons"
 picture="thumbnail.png"
 supported_version="1.18.*"
 remote_file_id="3627891270"
